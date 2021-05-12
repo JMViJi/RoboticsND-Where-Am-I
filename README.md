@@ -8,7 +8,7 @@ For this project my_world is the same as the previous one used in RoboticsND-Go-
 
 ### Robot
 Same as RoboticsND-Go-Chase-It project.
-
+![Robot](r1.png)
 
 ## File structure
 
@@ -26,5 +26,5 @@ Some changes are made to improve robot localization after teletransportation.
 
     <param name="min_particles" value="1000"/>
     <param name="max_particles" value="5000"/>
-	  <param name="update_min_d" value="0.01"/>
-	  <param name="update_min_a" value="0.01"/>
+    <param name="update_min_d" value="0.01"/>
+    <param name="update_min_a" value="0.01"/>
