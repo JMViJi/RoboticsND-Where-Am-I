@@ -1,7 +1,9 @@
 # RoboticsND-Where-Am-I
+Third project of the Robotics Software Engineer Nanodegree.
+
 
 ## Introduction
-Thrid project in wich the objective is to implement Monte Carlo Localization (MCL) algorithm to estimate the robot position. 
+Thrid project in wich the objective is to implement the Adaptative Monte Carlo Localization (AMCL) algorithm to estimate the robot position. 
 
 ### Working area
 For this project my_world is the same as the previous one used in RoboticsND-Go-Chase-It project.
