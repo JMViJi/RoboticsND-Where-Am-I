@@ -13,17 +13,20 @@ Same as RoboticsND-Go-Chase-It project.
 ## File structure
 
 ## Results
-Once
+RVIZ is opened in order to test AMCL performance. First of all an initial pose correction is made to match the position of the robot in Gazebo, otherwise we cannot continue.
 
 ![Robot](1.png)
 
-After a few movements made with teleop the robot knows it position so it's time to increase difficulty.
+After a few movements are made with teleop the robot knows its position so it's time to increase difficulty.
+
 ![Robot](2.png)
 
 Now the robot is taken to a different location of the map to test the performance of the localization algorithm.
+
 ![Robot](3.png)
 
 With a few movements the robot locates its position so we can conclude that AMCL algorithm is well tuned and behaves properly.
+
 ![Robot](4.png)
 
 
