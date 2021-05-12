@@ -13,18 +13,18 @@ Same as RoboticsND-Go-Chase-It project.
 ## File structure
 
 ## Results
-Once 
+Once
 
-![Robot](1 Initial position.png)
+![Robot](1.png)
 
 After a few movements made with teleop the robot knows it position so it's time to increase difficulty.
-![Robot](2 After moving with teleop.png)
+![Robot](2.png)
 
 Now the robot is taken to a different location of the map to test the performance of the localization algorithm.
-![Robot](3 After teletransportation.png)
+![Robot](3.png)
 
 With a few movements the robot locates its position so we can conclude that AMCL algorithm is well tuned and behaves properly.
-![Robot](4 After teletransportation and little movement.png)
+![Robot](4.png)
 
 
 ## Troubleshootings
